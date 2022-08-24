@@ -1,10 +1,13 @@
-### Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junkmd&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=junkmd&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=junkmd&theme=dracula&utcOffset=8)
 
 <!--
 **junkmd/junkmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
