@@ -1,3 +1,5 @@
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/junkmd/posts.svg)](http://qiita.com/junkmd)
+![](https://komarev.com/ghpvc/?username=junkmd)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junkmd&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junkmd&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junkmd&theme=dracula)
