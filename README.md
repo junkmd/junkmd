@@ -1,6 +1,10 @@
+# Hi, I'm junkmd! (😄 Pronouns: dʒún kéɪ ém díː [jun-kei-em-dee])
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/junkmd/posts.svg)](http://qiita.com/junkmd)
 ![](https://komarev.com/ghpvc/?username=junkmd)
 
+- 🔭 I’m currently working on [Diva@fierte-product-development](https://github.com/fierte-product-development)
+- 👯 I’m collaborating on [enthought/comtypes](https://github.com/enthought/comtypes), contributing on [python/typeshed](python/typeshed)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jun-komoda/)
 
 [![](https://raw.githubusercontent.com/junkmd/junkmd/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -15,7 +19,6 @@
 Here are some ideas to get you started:
 
 - Hi there 👋
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
