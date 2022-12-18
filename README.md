@@ -1,4 +1,4 @@
-# Hi, I'm [junkmd](https://github.com/junkmd)! (😄 Pronouns: dʒún kéɪ ém díː [jun-kei-em-dee])
+# Hi, I'm [junkmd](https://github.com/junkmd)! (dʒún kéɪ ém díː [jun-kei-em-dee])
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/junkmd/posts.svg)](http://qiita.com/junkmd)
 ![](https://komarev.com/ghpvc/?username=junkmd)
