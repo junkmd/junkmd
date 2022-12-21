@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on [Diva@fierte-product-development](https://github.com/fierte-product-development)
 - 👯 I’m collaborating on [enthought/comtypes](https://github.com/enthought/comtypes), contributing on [python/typeshed](https://github.com/python/typeshed) and [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jun-komoda/)
+- 😄 Pronouns: he/him
 
 [![](https://raw.githubusercontent.com/junkmd/junkmd/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/junkmd/junkmd/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
