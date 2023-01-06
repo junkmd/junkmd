@@ -3,7 +3,7 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/junkmd/posts.svg)](http://qiita.com/junkmd)
 ![](https://komarev.com/ghpvc/?username=junkmd)
 
-- 🔭 I’m currently working on [Diva(https://www.diva.co.jp/)
+- 🔭 I’m currently working on [Diva](https://www.diva.co.jp/)
 - 👯 I’m collaborating on [enthought/comtypes](https://github.com/enthought/comtypes), contributing on [python/typeshed](https://github.com/python/typeshed) and [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jun-komoda/)
 - 😄 Pronouns: he/him
