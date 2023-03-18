@@ -8,7 +8,6 @@
 - 👯 I’m collaborating on [enthought/comtypes](https://github.com/enthought/comtypes).
 - 👥 I'm contributing on ...
   - [python/typeshed](https://github.com/python/typeshed)
-  - [python/typing_extensions](https://github.com/python/typing_extensions)
   - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jun-komoda/)
 - 😄 Pronouns: he/him
