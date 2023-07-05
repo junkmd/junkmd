@@ -2,6 +2,7 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/junkmd/posts.svg)](http://qiita.com/junkmd)
 ![](https://komarev.com/ghpvc/?username=junkmd)
+[![](https://img.shields.io/github/sponsors/junkmd)](https://github.com/sponsors/junkmd)
 
 - 🔭 I’m currently working on [Diva](https://www.diva.co.jp/)
 - 👀 I’m interested in Python, type systems, RPA and keeping community healthy.
@@ -11,6 +12,9 @@
   - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jun-komoda/)
 - 😄 Pronouns: he/him
+
+
+
 
 [![](https://raw.githubusercontent.com/junkmd/junkmd/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/junkmd/junkmd/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
