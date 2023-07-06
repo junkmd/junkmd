@@ -12,6 +12,7 @@
   - [python/typeshed](https://github.com/python/typeshed)
   - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jun-komoda/)
+- [Can you become a sponsor to me?](https://github.com/sponsors/junkmd)
 - 😄 Pronouns: he/him
 
 
