@@ -2,7 +2,8 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/junkmd/posts.svg)](http://qiita.com/junkmd)
 ![](https://komarev.com/ghpvc/?username=junkmd)
-[![](https://img.shields.io/github/sponsors/junkmd)](https://github.com/sponsors/junkmd)
+[![GitHub Sponsor](https://img.shields.io/github/sponsors/junkmd?label=Sponsor&logo=GitHub)](https://github.com/sponsors/junkmd)
+
 
 - 🔭 I’m currently working on [Diva](https://www.diva.co.jp/)
 - 👀 I’m interested in Python, type systems, RPA and keeping community healthy.
