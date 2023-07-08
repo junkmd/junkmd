@@ -1,18 +1,19 @@
 # Hi, I'm [junkmd](https://github.com/junkmd)! (dʒún kéɪ ém díː [jun-kei-em-dee])
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/junkmd/posts.svg)](http://qiita.com/junkmd)
-![](https://komarev.com/ghpvc/?username=junkmd)
 [![GitHub Sponsor](https://img.shields.io/github/sponsors/junkmd?label=Sponsor&logo=GitHub)](https://github.com/sponsors/junkmd)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/junkmd/posts.svg)](http://qiita.com/junkmd)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/junkmd/contributions.svg)](http://qiita.com/junkmd)
+![](https://komarev.com/ghpvc/?username=junkmd)
 
 
-- 🔭 I’m currently working on [Diva](https://www.diva.co.jp/)
+- 🔭 I’m currently working on [Diva](https://www.diva.co.jp/).
 - 👀 I’m interested in Python, type systems, RPA and keeping community healthy.
 - 👯 I’m collaborating on [enthought/comtypes](https://github.com/enthought/comtypes).
 - 👥 I'm contributing on ...
   - [python/typeshed](https://github.com/python/typeshed)
   - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jun-komoda/)
-- 🤑 [Can you become a sponsor to me?](https://github.com/sponsors/junkmd)
+- 🤑 *[Can you become a sponsor to me?](https://github.com/sponsors/junkmd)* 💰
 - 😄 Pronouns: he/him
 
 
