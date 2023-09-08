@@ -8,10 +8,11 @@
 
 - 🔭 I’m currently working on [Diva](https://www.diva.co.jp/).
 - 👀 I’m interested in Python, type systems, RPA and keeping community healthy.
-- 👯 I’m collaborating on [enthought/comtypes](https://github.com/enthought/comtypes).
+- 👯 I’m collaborating on ...
+  - [enthought/comtypes](https://github.com/enthought/comtypes)
+  - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto)
 - 👥 I'm contributing on ...
   - [python/typeshed](https://github.com/python/typeshed)
-  - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jun-komoda/)
 - 🤑 *[Can you become a sponsor to me?](https://github.com/sponsors/junkmd)* 💰
 - 😄 Pronouns: he/him
