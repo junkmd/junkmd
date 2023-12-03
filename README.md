@@ -7,13 +7,15 @@
 
 
 - 🔭 I’m currently working on [Diva](https://www.diva.co.jp/).
-- 👀 I’m interested in Python, type systems, RPA and keeping community healthy.
+- 👀 I’m interested in Python, type systems, RPA and keeping communities healthy.
 - 👯 I’m collaborating on ...
   - [enthought/comtypes](https://github.com/enthought/comtypes)
   - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto)
 - 👥 I'm contributing on ...
   - [python/typeshed](https://github.com/python/typeshed)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jun-komoda/)
+- 🗣 As a speaker, ...
+  - [I had a lightning talk at the interactive commemorative lecture event for Guido van Rossum held in Japan.](https://www.linkedin.com/posts/jun-komoda_guidomeetup-activity-7136310193092521984-RB7G/)
 - 🤑 *[Can you become a sponsor to me?](https://github.com/sponsors/junkmd)* 💰
 - 😄 Pronouns: he/him
 
