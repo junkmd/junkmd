@@ -1,8 +1,8 @@
 # Hi, I'm [junkmd](https://github.com/junkmd)! (dʒún kéɪ ém díː [jun-kei-em-dee])
 
 [![GitHub Sponsor](https://img.shields.io/github/sponsors/junkmd?label=Sponsor&logo=GitHub)](https://github.com/sponsors/junkmd)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/junkmd/posts.svg)](http://qiita.com/junkmd)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/junkmd/contributions.svg)](http://qiita.com/junkmd)
+[![My Qiita posts](https://badgen.org/img/qiita/junkmd/articles?style=plastic&label=Qiita+Posts)](http://qiita.com/junkmd)
+[![My Qiita contributions](https://badgen.org/img/qiita/junkmd/contributions?style=plastic&label=Qiita+Contributions)](http://qiita.com/junkmd)
 ![](https://komarev.com/ghpvc/?username=junkmd)
 
 
